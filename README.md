@@ -26,7 +26,7 @@ To run this project, you need the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Deepfake-Detection.git
+    git clone https://github.com/neeeeel30/Deepfake-Detection.git
     cd tisbproject/backend
     ```
 
